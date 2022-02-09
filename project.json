@@ -1,0 +1,10 @@
+{
+    "name": "Fixroot",
+    "main": "main.js",
+    "ignore": [
+        "build"
+    ],
+    "packageName": "cn.suroy.fixroot",
+    "versionName": "1.0.0",
+    "versionCode": 1
+}
